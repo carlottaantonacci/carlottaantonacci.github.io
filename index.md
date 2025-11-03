@@ -2,122 +2,49 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Hello, I'm Carlotta Antonacci
 
-[Link to another page](./another-page.html).
+I am a professional translator specializing in **video games, films, and animation**.  
+I help companies effectively communicate with Italian-speaking audiences by providing high-quality translations, culturally adapted subtitles, dialogue localization, and content revision.
 
-There should be whitespace between paragraphs.
+With a strong linguistic background and years of experience working with international teams, I ensure that every project maintains its original tone, narrative, and emotional impact while resonating naturally with Italian audiences.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## Featured Portfolio
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- **Video Games:** *Game XYZ* – Full dialogue translation, in-game text localization, and subtitling, 2023  
+- **Films:** *Film ABC* – Dialogue adaptation, subtitle translation, and cultural localization, 2022  
+- **Animation:** *Animated Series 123* – Script revision, translation, and voice-over adaptation, 2021  
 
-## Header 2
+[Explore the full portfolio](./portfolio.md)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+## Services
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+I offer a comprehensive range of professional language services tailored to creative media projects:
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- **Translation & Localization:** Accurate translation with cultural adaptation to maintain the original context.  
+- **Creative Dialogue Adaptation:** Ensuring dialogues feel natural and engaging for the target audience.  
+- **Proofreading & Style Consistency:** Maintaining coherence, tone, and quality across all content.  
 
-#### Header 4
+[Learn more about my services](./servizi.md)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+## About Me
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+With over X years of experience in translation and localization, I collaborate with international teams to bring stories and characters to life for Italian audiences.  
+I combine linguistic precision with cultural insight to enhance storytelling and ensure that every project meets the highest professional standards.
 
-###### Header 6
+[Find out more about me](./chi-sono.md)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+## Contact
 
-* * *
+Looking to collaborate? Reach out via **email@example.com** or connect with me on **[LinkedIn](https://www.linkedin.com/in/carlottaantonacci)**.  
+I am always open to new projects, partnerships, and creative opportunities.
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[Contact Me](./contatti.md)
