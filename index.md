@@ -31,7 +31,7 @@ I offer a comprehensive range of professional language services tailored to crea
 - **Creative Dialogue Adaptation:** Ensuring dialogues feel natural and engaging for the target audience.  
 - **Proofreading & Style Consistency:** Maintaining coherence, tone, and quality across all content.  
 
-[Learn more about my services](/pagina.md)
+[Learn more about my services](/pagina/)
 
 
 ---
