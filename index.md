@@ -4,18 +4,20 @@ layout: default
 
 # Hello, I'm Carlotta Antonacci
 
-I am a professional translator specializing in **video games, films, and animation**.  
+I am a professional translator specialized in **video games, films, and animation**.  
 I help companies effectively communicate with Italian-speaking audiences by providing high-quality translations, culturally adapted subtitles, dialogue localization, and content revision.
 
-With a strong linguistic background and years of experience working with international teams, I ensure that every project maintains its original tone, narrative, and emotional impact while resonating naturally with Italian audiences.
+With a strong linguistic background and experience working with international teams, I ensure that every project maintains its original tone, narrative, and emotional impact while resonating naturally with Italian audiences.
 
 ---
 
 ## Featured Portfolio
 
-- **Video Games:** *Game XYZ* – Full dialogue translation, in-game text localization, and subtitling, 2023  
-- **Films:** *Film ABC* – Dialogue adaptation, subtitle translation, and cultural localization, 2022  
-- **Animation:** *Animated Series 123* – Script revision, translation, and voice-over adaptation, 2021  
+- **Video Games:** *Night in the Woods* –  Dialogue translation, in-game text localization, graphic localization, 2023  
+- **Films:** *The Descent* – Subtitle translation and adaptation, 2025
+*Onsen Shark* - Subtitle translation and adaptation, 2025
+- **Animation:** *Animated Series*  (NDA) – Under Lydia Corbelli's supervision - Dialogue translation and adaptation 
+- **Translation** *Film Reviews* - Translation of Film Reviews for the 43rd edition of Torino Film Festival 
 
 [Explore the full portfolio](./portfolio.md)
 
@@ -29,7 +31,8 @@ I offer a comprehensive range of professional language services tailored to crea
 - **Creative Dialogue Adaptation:** Ensuring dialogues feel natural and engaging for the target audience.  
 - **Proofreading & Style Consistency:** Maintaining coherence, tone, and quality across all content.  
 
-[Learn more about my services](./servizi.md)
+[Learn more about my services](./pagina.md)
+
 
 ---
 
