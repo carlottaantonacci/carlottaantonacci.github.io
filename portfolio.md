@@ -12,4 +12,6 @@ Torino Film Festival - Film Translation Reviews </a>
 </h1>
 <p>I had the honor of translating reviews of some of the films in competition at the Torino Film Festival, published on <a href="http://cinedamstorino.it/" target="_blank" rel="noopener"> CineDams Torino </a> 
 
-<h1> <a href=
+<h1> <a href="/song-translation/" style="text-decoration: underline; color: blue;">
+Song Translation - Sing </a>
+</h1>
