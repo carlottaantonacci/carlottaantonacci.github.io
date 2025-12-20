@@ -5,7 +5,6 @@
 </h1>
 <p>
 Night in the Woods is a 2017 graphic adventure created by Finji. I localized a portion of the game dialogues (around 4000 characters) but also some graphical elements of the game.
-## Torino Film Festival - Film Reviews Translation </p>
 
 <h1>
 <a href="/film-reviews/" style="text-decoration:none; color:inherit"> Torino Film Festival - Film Reviews Translation </a> </h1>
