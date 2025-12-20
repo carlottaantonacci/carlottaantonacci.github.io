@@ -1,5 +1,5 @@
 <h1>
-  <a href="/videogame-localization/"style="text-decoration:none; color:inherit;"> 
+  <a href="/videogame-localization/" style="text-decoration:none; color:inherit;">
     Night in the Woods - Videogame Localization 
   </a>
 </h1>
