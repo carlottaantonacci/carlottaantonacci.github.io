@@ -161,7 +161,6 @@ Here you can see some of the pages of the journal in both the original and the i
     </figcaption>
   </figure>
 </div>
-<br>
 <div>
  <figure style="text-align: center; width: 45%;">
     <img src="/assets/pictures/mallcop.JPG" alt="Original version" style="width: 100%;">
@@ -176,11 +175,7 @@ Here you can see some of the pages of the journal in both the original and the i
       Original version
     </figcaption>
   </figure>
-
 </div>
-</br>
-
-<br>
 <div>
  <figure style="text-align: center; width: 45%;">
     <img src="/assets/pictures/thought.JPG" alt="Original version" style="width: 100%;">
@@ -197,9 +192,6 @@ Here you can see some of the pages of the journal in both the original and the i
   </figure> 
 
   </div>
-  </br>
-
-  <br>
 <div>
  <figure style="text-align: center; width: 45%;">
     <img src="/assets/pictures/everythingfeelsbad.JPG" alt="Original version" style="width: 100%;">
@@ -216,7 +208,10 @@ Here you can see some of the pages of the journal in both the original and the i
   </figure> 
 
   </div>
-  </br>
+
+<h1> More Info </h1>
+ <p> For more information about my localization project, as for example the entire translated dialogue, list you can visit the dedicated <a href="https://github.com/carlottaantonacci/NITW---Italian-Localization" target="_blank" rel="noopener"> github page </a> </p>
+  
 
 
 
