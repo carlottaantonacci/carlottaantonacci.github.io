@@ -160,7 +160,9 @@ Here you can see some of the pages of the journal in both the original and the i
       Italian translation
     </figcaption>
   </figure>
+</div>
 
+<div>
  <figure style="text-align: center; width: 45%;">
     <img src="/assets/pictures/mallcop.JPG" alt="Original version" style="width: 100%;">
     <figcaption style="font-size: 0.9em; margin-top: 8px;">
