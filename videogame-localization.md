@@ -140,8 +140,30 @@ Rather than reproducing these organ-based puns in Italian, my translation shifts
 
 <h1> Graphical Elements </h1>
 
+<p> Video game localization often also requires modifying graphic elements such as journals or maps that convey the lore behind the story itself. In the case of NITW, Mae's journal is an element that adds an extra layer of sarcasm and dark humor, and it was necessary to translate and adapt it to provide a complete experience.
 
-<!> link al github ? <!>
+Here you can see some of the pages of the journal in both the original and the italian version.
+ </p>
+
+ <div style="display: flex; gap: 20px; justify-content: center; margin: 20px 0;">
+
+  <figure style="text-align: center; width: 45%;">
+    <img src="/assets/pictures/greggory's pizza scale.jpg" alt="Original version" style="width: 100%;">
+    <figcaption style="font-size: 0.9em; margin-top: 8px;">
+      Original version
+    </figcaption>
+  </figure>
+
+  <figure style="text-align: center; width: 45%;">
+    <img src="/assets/pictures/il pizzametro di greggory.jpg" alt="Italian translation" style="width: 100%;">
+    <figcaption style="font-size: 0.9em; margin-top: 8px;">
+      Italian translation
+    </figcaption>
+  </figure>
+
+</div>
+
+
 
 
 </div>
