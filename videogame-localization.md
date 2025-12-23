@@ -143,49 +143,50 @@ Rather than reproducing these organ-based puns in Italian, my translation shifts
 <p> Video game localization often also requires modifying graphic elements such as journals or maps that convey the lore behind the story itself. In the case of NITW, Mae's journal is an element that adds an extra layer of sarcasm and dark humor, and it was necessary to translate and adapt it to provide a complete experience.
 
 Here you can see some of the pages of the journal in both the original and the italian version. </p>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
-  <figure style="text-align: center; width: 35%;">
+  <figure style="text-align: center;">
     <img src="/assets/pictures/greggory.JPG" style="width: 100%;">
     <figcaption>Original version</figcaption>
   </figure>
 
-  <figure style="text-align: center; width: 35%;">
+  <figure style="text-align: center;">
     <img src="/assets/pictures/il pizzametro di greggory.jpg" style="width: 100%;">
     <figcaption>Italian translation</figcaption>
   </figure>
 
-  <figure style="text-align: center; width: 35%;">
+  <figure style="text-align: center;">
     <img src="/assets/pictures/mallcop.JPG" style="width: 100%;">
     <figcaption>Original version</figcaption>
   </figure>
 
-  <figure style="text-align: center; width: 35%;">
+  <figure style="text-align: center;">
     <img src="/assets/pictures/polly-zia.jpg" style="width: 100%;">
     <figcaption>Original version</figcaption>
   </figure>
 
-  <figure style="text-align: center; width: 35%;">
+  <figure style="text-align: center;">
     <img src="/assets/pictures/thought.JPG" style="width: 100%;">
     <figcaption>Original version</figcaption>
   </figure>
 
-  <figure style="text-align: center; width: 35%;">
+  <figure style="text-align: center;">
     <img src="/assets/pictures/caro diario.jpg" style="width: 100%;">
     <figcaption>Original version</figcaption>
   </figure>
 
-  <figure style="text-align: center; width: 35%;">
+  <figure style="text-align: center;">
     <img src="/assets/pictures/everythingfeelsbad.JPG" style="width: 100%;">
     <figcaption>Original version</figcaption>
   </figure>
 
-  <figure style="text-align: center; width: 35%;">
+  <figure style="text-align: center;">
     <img src="/assets/pictures/fa tutto schifo.jpg" style="width: 100%;">
     <figcaption>Original version</figcaption>
   </figure>
 
 </div>
+
 
 <h1> More Info </h1>
  <p> For more information about my localization project, as for example the entire translated dialogue list, you can visit the dedicated <a href="https://github.com/carlottaantonacci/NITW---Italian-Localization" target="_blank" rel="noopener"> github page.</a> </p>
