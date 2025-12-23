@@ -148,7 +148,7 @@ Here you can see some of the pages of the journal in both the original and the i
  <div style="display: flex; gap: 20px; justify-content: center; margin: 20px 0;">
 
   <figure style="text-align: center; width: 45%;">
-    <img src="/assets/pictures/greggory'spizzascale.jpg" alt="Original version" style="width: 100%;">
+    <img src="/assets/pictures/greggory.JPG" alt="Original version" style="width: 100%;">
     <figcaption style="font-size: 0.9em; margin-top: 8px;">
       Original version
     </figcaption>
@@ -158,6 +158,20 @@ Here you can see some of the pages of the journal in both the original and the i
     <img src="/assets/pictures/il pizzametro di greggory.jpg" alt="Italian translation" style="width: 100%;">
     <figcaption style="font-size: 0.9em; margin-top: 8px;">
       Italian translation
+    </figcaption>
+  </figure>
+
+ <figure style="text-align: center; width: 45%;">
+    <img src="/assets/pictures/mallcop.JPG" alt="Original version" style="width: 100%;">
+    <figcaption style="font-size: 0.9em; margin-top: 8px;">
+      Original version
+    </figcaption>
+  </figure> 
+
+<figure style="text-align: center; width: 45%;">
+    <img src="/assets/pictures/polly-zia.jpg" alt="Original version" style="width: 100%;">
+    <figcaption style="font-size: 0.9em; margin-top: 8px;">
+      Original version
     </figcaption>
   </figure>
 
