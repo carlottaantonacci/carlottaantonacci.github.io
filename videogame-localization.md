@@ -144,7 +144,7 @@ Rather than reproducing these organ-based puns in Italian, my translation shifts
 
 Here you can see some of the pages of the journal in both the original and the italian version. </p>
 
-<div style="display: flex; gap: 20px; justify-content: center; margin: 20px 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <figure style="text-align: center; width: 15%;">
     <img src="/assets/pictures/greggory.JPG" alt="Original version" style="width: 100%;">
@@ -160,8 +160,6 @@ Here you can see some of the pages of the journal in both the original and the i
     </figcaption>
   </figure>
 
-</div>
-<div>
  <figure style="text-align: center; width: 15%;">
     <img src="/assets/pictures/mallcop.JPG" alt="Original version" style="width: 100%;">
     <figcaption style="font-size: 0.9em; margin-top: 8px;">
@@ -174,8 +172,7 @@ Here you can see some of the pages of the journal in both the original and the i
       Original version
     </figcaption>
   </figure>
-</div>
-<div>
+
  <figure style="text-align: center; width: 15%;">
     <img src="/assets/pictures/thought.JPG" alt="Original version" style="width: 100%;">
     <figcaption style="font-size: 0.9em; margin-top: 8px;">
@@ -190,8 +187,6 @@ Here you can see some of the pages of the journal in both the original and the i
     </figcaption>
   </figure> 
 
-  </div>
-<div>
  <figure style="text-align: center; width: 45%;">
     <img src="/assets/pictures/everythingfeelsbad.JPG" alt="Original version" style="width: 100%;">
     <figcaption style="font-size: 0.9em; margin-top: 8px;">
