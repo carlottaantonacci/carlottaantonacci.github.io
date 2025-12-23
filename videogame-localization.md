@@ -180,7 +180,3 @@ Here you can see some of the pages of the journal in both the original and the i
 
 
 
-</div>
-
-
-
