@@ -161,7 +161,7 @@ Here you can see some of the pages of the journal in both the original and the i
     </figcaption>
   </figure>
 </div>
-
+<br>
 <div>
  <figure style="text-align: center; width: 45%;">
     <img src="/assets/pictures/mallcop.JPG" alt="Original version" style="width: 100%;">
@@ -178,6 +178,7 @@ Here you can see some of the pages of the journal in both the original and the i
   </figure>
 
 </div>
+</br>
 
 
 
