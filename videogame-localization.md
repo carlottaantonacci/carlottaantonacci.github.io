@@ -9,7 +9,9 @@ permalink: /videogame-localization/
 
 <h1> Wordplays and puns </h1>
 
-<p> In this scene from the video game, there is an funny exchange of puns and wordplay that I adapted to maintain the ironic tone of the scene. </p>
+<p> In this scene, Mae and Bea discuss the disturbing fact that Mrs. Miranda kept her dead husband in the house, a macabre topic that prompts Mae to produce a series of puns based on idioms and wordplays involving internal organs.
+
+Rather than reproducing these organ-based puns in Italian, my translation shifts toward expressions and wordplays connected to death and funerary imagery, in order to reinforce the theme of the dialogue and preserve its dark, humorous effect for the Italian audience. </p>
 
 <video width="640" height="360" controls>
   <source src="/assets/video/NITW clip - functioning gameplay with italian dialogues.mp4" type="video/mp4">
@@ -19,9 +21,9 @@ permalink: /videogame-localization/
 <table>
   <thead>
     <tr>
-      <th>Speaker</th>
-      <th>Original</th>
-      <th>Italian Translation</th>
+      <th>CHARACTER</th>
+      <th>ORIGINAL DIALOGUE</th>
+      <th>ITALIAN TRANSLATION </th>
     </tr>
   </thead>
   <tbody>
