@@ -180,6 +180,43 @@ Here you can see some of the pages of the journal in both the original and the i
 </div>
 </br>
 
+<br>
+<div>
+ <figure style="text-align: center; width: 45%;">
+    <img src="/assets/pictures/thought.JPG" alt="Original version" style="width: 100%;">
+    <figcaption style="font-size: 0.9em; margin-top: 8px;">
+      Original version
+    </figcaption>
+  </figure> 
+
+   <figure style="text-align: center; width: 45%;">
+    <img src="/assets/pictures/caro diario.jpg" alt="Original version" style="width: 100%;">
+    <figcaption style="font-size: 0.9em; margin-top: 8px;">
+      Original version
+    </figcaption>
+  </figure> 
+
+  </div>
+  </br>
+
+  <br>
+<div>
+ <figure style="text-align: center; width: 45%;">
+    <img src="/assets/pictures/everythingfeelsbad.JPG" alt="Original version" style="width: 100%;">
+    <figcaption style="font-size: 0.9em; margin-top: 8px;">
+      Original version
+    </figcaption>
+  </figure> 
+
+   <figure style="text-align: center; width: 45%;">
+    <img src="/assets/pictures/fa tutto schifo.jpg" alt="Original version" style="width: 100%;">
+    <figcaption style="font-size: 0.9em; margin-top: 8px;">
+      Original version
+    </figcaption>
+  </figure> 
+
+  </div>
+  </br>
 
 
 
