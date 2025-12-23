@@ -15,7 +15,7 @@ permalink: /videogame-localization/
   <source src="/assets/video/NITW clip - functioning gameplay with italian dialogues.mp4" type="video/mp4">
 </video>
 
-<p> Here you can read the original dialogue </p>
+<p> Here you can read the original dialogue with side-by-side adaptation. </p>
 <table>
   <thead>
     <tr>
@@ -25,8 +25,6 @@ permalink: /videogame-localization/
     </tr>
   </thead>
   <tbody>
-
-    <!-- NUOVO PEZZO (INIZIO) -->
     <tr>
       <td>MAE</td>
       <td>So do you think Mrs Miranda like</td>
