@@ -162,7 +162,7 @@ Here you can see some of the pages of the journal in both the original and the i
 
   <figure style="text-align: center;">
     <img src="/assets/pictures/polly-zia.jpg" style="width: 100%;">
-    <figcaption>Original version</figcaption>
+    <figcaption>Italian version</figcaption>
   </figure>
 
   <figure style="text-align: center;">
@@ -172,7 +172,7 @@ Here you can see some of the pages of the journal in both the original and the i
 
   <figure style="text-align: center;">
     <img src="/assets/pictures/caro diario.jpg" style="width: 100%;">
-    <figcaption>Original version</figcaption>
+    <figcaption>Italian version</figcaption>
   </figure>
 
   <figure style="text-align: center;">
@@ -182,7 +182,7 @@ Here you can see some of the pages of the journal in both the original and the i
 
   <figure style="text-align: center;">
     <img src="/assets/pictures/fa tutto schifo.jpg" style="width: 100%;">
-    <figcaption>Original version</figcaption>
+    <figcaption>Italian version</figcaption>
   </figure>
 
 </div>
