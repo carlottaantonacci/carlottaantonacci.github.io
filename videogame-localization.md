@@ -210,7 +210,7 @@ Here you can see some of the pages of the journal in both the original and the i
   </div>
 
 <h1> More Info </h1>
- <p> For more information about my localization project, as for example the entire translated dialogue, list you can visit the dedicated <a href="https://github.com/carlottaantonacci/NITW---Italian-Localization" target="_blank" rel="noopener"> github page </a> </p>
+ <p> For more information about my localization project, as for example the entire translated dialogue, list you can visit the dedicated <a href="https://github.com/carlottaantonacci/NITW---Italian-Localization" target="_blank" rel="noopener"> github page </a>. </p>
   
 
 
