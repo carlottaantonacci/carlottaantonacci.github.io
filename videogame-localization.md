@@ -145,42 +145,42 @@ Rather than reproducing these organ-based puns in Italian, my translation shifts
 Here you can see some of the pages of the journal in both the original and the italian version. </p>
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-  <figure style="text-align: center; width: 45%;">
+  <figure style="text-align: center; width: 35%;">
     <img src="/assets/pictures/greggory.JPG" style="width: 100%;">
     <figcaption>Original version</figcaption>
   </figure>
 
-  <figure style="text-align: center; width: 45%;">
+  <figure style="text-align: center; width: 35%;">
     <img src="/assets/pictures/il pizzametro di greggory.jpg" style="width: 100%;">
     <figcaption>Italian translation</figcaption>
   </figure>
 
-  <figure style="text-align: center; width: 45%;">
+  <figure style="text-align: center; width: 35%;">
     <img src="/assets/pictures/mallcop.JPG" style="width: 100%;">
     <figcaption>Original version</figcaption>
   </figure>
 
-  <figure style="text-align: center; width: 45%;">
+  <figure style="text-align: center; width: 35%;">
     <img src="/assets/pictures/polly-zia.jpg" style="width: 100%;">
     <figcaption>Original version</figcaption>
   </figure>
 
-  <figure style="text-align: center; width: 45%;">
+  <figure style="text-align: center; width: 35%;">
     <img src="/assets/pictures/thought.JPG" style="width: 100%;">
     <figcaption>Original version</figcaption>
   </figure>
 
-  <figure style="text-align: center; width: 45%;">
+  <figure style="text-align: center; width: 35%;">
     <img src="/assets/pictures/caro diario.jpg" style="width: 100%;">
     <figcaption>Original version</figcaption>
   </figure>
 
-  <figure style="text-align: center; width: 45%;">
+  <figure style="text-align: center; width: 35%;">
     <img src="/assets/pictures/everythingfeelsbad.JPG" style="width: 100%;">
     <figcaption>Original version</figcaption>
   </figure>
 
-  <figure style="text-align: center; width: 45%;">
+  <figure style="text-align: center; width: 35%;">
     <img src="/assets/pictures/fa tutto schifo.jpg" style="width: 100%;">
     <figcaption>Original version</figcaption>
   </figure>
