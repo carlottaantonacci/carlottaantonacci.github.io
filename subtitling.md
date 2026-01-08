@@ -39,28 +39,31 @@ Due to copyright restrictions, subtitle files and film excerpts cannot be public
 Although horror films are not usually my genre of choice, working as a subtitler for the <strong>TOHorror Fantastic Film Festival</strong> turned out to be a genuinely enjoyable and stimulating experience.
 </p>
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px;">
 
-<figure>
-    <img src="/assets/pictures/biglietti.jpeg" style="width: 100%;">
+  <figure>
+    <img src="/assets/pictures/biglietti.jpeg" alt="Festival accreditation pass" style="width: 100%; max-height: 400px; object-fit: cover;">
     <figcaption style="text-align: center;">Festival accreditation pass</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/pictures/tohorrorlogo.jpeg" style="width: 100%;">
-  </figure>
-  <figure>
-    <img src="/assets/pictures/thedescentsub.jpeg" style="width: 100%;">
+    <img src="/assets/pictures/tohorrorlogo.jpeg" alt="TOHorror logo" style="width: 100%; max-height: 400px; object-fit: contain;">
   </figure>
 
   <figure>
-    <img src="/assets/pictures/onsensub.jpeg" style="width: 100%;">
+    <img src="/assets/pictures/thedescentsub.jpeg" alt="The Descent subtitles" style="width: 100%; max-height: 400px; object-fit: contain;">
   </figure>
 
   <figure>
-    <img src="/assets/pictures/sottotitoliby.jpeg" style="width: 100%;">
+    <img src="/assets/pictures/onsensub.jpeg" alt="Onsen Shark subtitles" style="width: 100%; max-height: 400px; object-fit: contain;">
   </figure>
+
+  <figure>
+    <img src="/assets/pictures/sottotitoliby.jpeg" alt="Subtitles by me" style="width: 100%; max-height: 400px; object-fit: contain;">
+  </figure>
+
 </div>
+
 
 <p>
 Subtitling involved spotting, segmentation, and timing adapted to theatrical screening constraints.
