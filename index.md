@@ -47,7 +47,7 @@ I combine linguistic precision with cultural insight to enhance storytelling and
 
 ## Contact
 
-Looking to collaborate? Reach out via **email@example.com** or connect with me on **[LinkedIn](https://www.linkedin.com/in/carlottaantonacci)**.  
+Looking to collaborate? Reach out via **email@example.com** or connect with me on **[LinkedIn](www.linkedin.com/in/carlotta-anna-antonacci-525389295)**.  
 I am always open to new projects, partnerships, and creative opportunities.
 
 [Contact Me](./contatti.md)
