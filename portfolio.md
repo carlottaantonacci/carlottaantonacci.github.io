@@ -1,3 +1,9 @@
+---
+layout: default
+title: Portfolio
+permalink: /portfolio/
+---
+
 <h1>
    <a href="/videogame-localization/" style="text-decoration: underline; color: light-blue;">
     Night in the Woods – Videogame Localization
