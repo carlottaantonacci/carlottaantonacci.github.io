@@ -39,34 +39,29 @@ Due to copyright restrictions, subtitle files and film excerpts cannot be public
 Although horror films are not usually my genre of choice, working as a subtitler for the <strong>TOHorror Fantastic Film Festival</strong> turned out to be a genuinely enjoyable and stimulating experience.
 </p>
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px;">
 
-  <figure>
-    <img src="/assets/pictures/tohorrorlogo.jpeg" style="width: 100%;">
-    <figcaption style="text-align: center;">TOHorror Fantastic Film Fest</figcaption>
-  </figure>
-
-  <figure>
+<figure>
     <img src="/assets/pictures/biglietti.jpeg" style="width: 100%;">
     <figcaption style="text-align: center;">Festival accreditation pass</figcaption>
   </figure>
 
   <figure>
+    <img src="/assets/pictures/tohorrorlogo.jpeg" style="width: 100%;">
+  </figure>
+  <figure>
     <img src="/assets/pictures/thedescentsub.jpeg" style="width: 100%;">
-    <figcaption style="text-align: center;">Screening room</figcaption>
   </figure>
 
   <figure>
     <img src="/assets/pictures/onsensub.jpeg" style="width: 100%;">
-    <figcaption style="text-align: center;">Subtitled screening (photo taken in theatre)</figcaption>
   </figure>
 
   <figure>
     <img src="/assets/pictures/sottotitoliby.jpeg" style="width: 100%;">
-    <figcaption style="text-align: center;">Subtitled screening (photo taken in theatre)</figcaption>
   </figure>
 </div>
 
 <p>
 Subtitling involved spotting, segmentation, and timing adapted to theatrical screening constraints.
-</p>
+</p> 
