@@ -66,3 +66,7 @@ Although horror films are not usually my genre of choice, working as a subtitler
     <figcaption style="text-align: center;">Subtitled screening (photo taken in theatre)</figcaption>
   </figure>
 </div>
+
+<p>
+Subtitling involved spotting, segmentation, and timing adapted to theatrical screening constraints.
+</p>
