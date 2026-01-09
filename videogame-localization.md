@@ -50,7 +50,7 @@ Rather than reproducing these organ-based puns in Italian, my translation shifts
       <td>Isn’t that what you do for mummies?</td>
       <td>Togliergli gli organi e cose così?</td>
       <td>Remove his organs and things like that?</td>
-      <td>More natural sounding in Italian</td>
+      <td></td>
       </tr>
       <tr>
       <td>BEA</td>
@@ -69,7 +69,7 @@ Rather than reproducing these organ-based puns in Italian, my translation shifts
       <tr>
       <td>BEA</td>
       <td> Nope. </td>
-      <td> Già </td>
+      <td> Già. </td>
       <td> Yep. </td>
       <td></td>
       </tr>
