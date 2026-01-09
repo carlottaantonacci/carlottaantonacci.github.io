@@ -196,7 +196,7 @@ Senza di te <br>
         And let myself go, go, go <br>
         Without you <br>
     </table>
-
+<-->
     
 
 <h2>Read More</h2>
@@ -205,5 +205,6 @@ For a detailed discussion of the translation process, see our conference paper:
 <a href="https://doi.org/10.13135/2420-7969/21" target="_blank"> Carlotta Anna ANTONACCI, Gaia BUONSANTI, Gaia FARACI, Vincenza MINUTELLA • The Sound of Rebellion. Adattare le canzoni nei film di animazione</a>.
 </p>
 
+
 <a href="/portfolio/" class="back-link">← Go back to Portfolio</a> 
--->
+
