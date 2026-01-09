@@ -11,9 +11,9 @@ permalink: /videogame-localization/
 
 <h1> Wordplays and puns </h1>
 
-<p> In this scene, Mae and Bea discuss the disturbing fact that Mrs. Miranda kept her dead husband in the house, a macabre topic that prompts Mae to produce a series of puns based on idioms and wordplays involving internal organs.
+<p> In this scene, Mae and Bea discuss the disturbing fact that Mrs. Miranda kept her dead husband in the house, a macabre topic that prompts Mae to produce a series of puns based on idioms and wordplays involving internal organs. </p>
 
-Rather than reproducing these organ-based puns in Italian, my translation shifts toward expressions and wordplays connected to death and funerary imagery, in order to reinforce the theme of the dialogue and preserve its dark, humorous effect for the Italian audience. </p>
+<p> Rather than reproducing these organ-based puns in Italian, my translation shifts toward expressions and wordplays connected to death and funerary imagery, in order to reinforce the theme of the dialogue and preserve its dark, humorous effect for the Italian audience. </p>
 
 <video width="640" height="360" controls>
   <source src="/assets/video/NITW clip - functioning gameplay with italian dialogues.mp4" type="video/mp4">
@@ -64,7 +64,7 @@ Rather than reproducing these organ-based puns in Italian, my translation shifts
       <td> Do you’d have the stomach for it? </td>
       <td> Bè, “finché morte non ci separi”… letteralmente. </td>
       <td> Well, "until death do us part"... literally.</td>
-      <td> Change of idiomatic expression > from the theme of “courage” (and organs) to “death” <td>
+      <td> Change of idiomatic expression > from the theme of “courage” (and organs) to “death” </td>
       </tr>
       <tr>
       <td>BEA</td>
@@ -105,6 +105,7 @@ Rather than reproducing these organ-based puns in Italian, my translation shifts
       <td>MAE</td>
       <td>She really rectum!</td>
       <td>Più fedele di così si muore!</td>
+      <td>You can't get any more loyal than that!</td>
       <td>literally, *you would die if you were that faithful. Something like "You can't get any more loyal than that!"</td>
       </tr>
       <tr>
@@ -118,7 +119,7 @@ Rather than reproducing these organ-based puns in Italian, my translation shifts
       <td>MAE</td>
       <td>Yeah that should stay where it belongs!</td>
       <td>Meglio non dilapidare il patrimonio però!</td>
-      <td>>Better not to squander your wealth, though!</td>
+      <td>Better not to squander your wealth, though!</td>
       <td>The Italian pun is connected to the previous line, playing on "lapide" (tombstone) and its sound similarity with "dilapidare" (to waste money). Better not to waste money after his death. </td>
       </tr>
       <tr>
