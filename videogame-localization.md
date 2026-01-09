@@ -178,7 +178,7 @@ permalink: /videogame-localization/
 
 <p> Video game localization often also requires modifying graphic elements such as journals or maps that convey the lore behind the story itself. In the case of NITW, Mae's journal is an element that adds an extra layer of sarcasm and dark humor, and it was necessary to translate and adapt it to provide a complete experience.
 
-Here you can see some of the pages of the journal in both the original and the italian version. </p>
+Here you can see some of the pages of the journal in both the original and the Italian translation. </p>
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
   <figure style="text-align: center;">
@@ -198,7 +198,7 @@ Here you can see some of the pages of the journal in both the original and the i
 
   <figure style="text-align: center;">
     <img src="/assets/pictures/polly-zia.jpg" style="width: 100%;">
-    <figcaption>Italian version</figcaption>
+    <figcaption>Italian translation</figcaption>
   </figure>
 
   <figure style="text-align: center;">
@@ -208,7 +208,7 @@ Here you can see some of the pages of the journal in both the original and the i
 
   <figure style="text-align: center;">
     <img src="/assets/pictures/caro diario.jpg" style="width: 100%;">
-    <figcaption>Italian version</figcaption>
+    <figcaption>Italian translation</figcaption>
   </figure>
 
   <figure style="text-align: center;">
@@ -218,7 +218,7 @@ Here you can see some of the pages of the journal in both the original and the i
 
   <figure style="text-align: center;">
     <img src="/assets/pictures/fa tutto schifo.jpg" style="width: 100%;">
-    <figcaption>Italian version</figcaption>
+    <figcaption>Italian translation</figcaption>
   </figure>
   </div>
 <div>
