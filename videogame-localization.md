@@ -163,6 +163,12 @@ Rather than reproducing these organ-based puns in Italian, my translation shifts
       <td>You know what they say, only for death there's no cure!</td>
       <td>Bodily Organ-related pun substituted with an Italian idiomatic expression related to death.</td>
       </tr>
+      <tr>
+      <td>BEA</td>
+      <td>I'm calling the cops.</td>
+      <td>Ti denuncio.</td>
+      <td>I'll report you.</td>
+      <td>Italian youth language expression that fits with the young age and personality of the character.</td>
   </tbody>
 </table>
 
