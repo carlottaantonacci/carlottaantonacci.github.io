@@ -24,7 +24,7 @@ Song Translation - Sing </a>
 
 <h1>
 <a href="/kpop-translation/" style="text-decoration: underline; color: light-blue;">
-Kpop Demon Hunters - Song Translation </a>
+Song Translation - Kpop Demon Hunters </a>
 </h1>
 
 <h1> <a href="/subtitling/" style="text-decoration: underline; color: light-blue;">
